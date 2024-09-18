@@ -1,8 +1,7 @@
 #! /bin/bash
 # 
 # License: GNU General Public License v3.0
-# See the Github page for full license and notes:
-# https://github.com/PeachFlame/cPanel-fixperms
+# 
 #
 
 # Set verbose to null
